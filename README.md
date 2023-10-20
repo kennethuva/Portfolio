@@ -18,7 +18,8 @@ A site about myself to show uses of CSS, HTML and GIT
 3 Open Project1.html
 
 ## Known Bugs
-* Links don't work
+* Link to Hello-World2 doesn't work
+* Text with image doesn't float left
 
 [Portfolio GH Page](https://kennethuva.github.io/Portfolio/)
 
