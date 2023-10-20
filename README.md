@@ -20,7 +20,7 @@ A site about myself to show uses of CSS, HTML and GIT
 ## Known Bugs
 * Links don't work
 
-[Portfolio GH Page](https://kennethuva.github.io/Project1/)
+[Portfolio GH Page](https://kennethuva.github.io/Portfolio/)
 
 ## License
 MIT License
