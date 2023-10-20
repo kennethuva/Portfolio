@@ -11,6 +11,10 @@ span {
     color: blue;
 }
 h2 {
+    border: 2px black;
+    padding: 2px;
+    margin: 6px;
+    background-color: Pink;
     text-align: center;
 }
 img {
