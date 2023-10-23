@@ -13,13 +13,12 @@ Site to Demonstrate HTML, CSS and GIT.
 A site about myself to show uses of CSS, HTML and GIT
 
 ## Setup and Installation
-1 Clone a copy to the desktop
-2 Go to To of Directory
-3 Open Project1.html
+1. Clone a copy to the desktop
+2. Go to To of Directory
+3. Open Project1.html
 
 ## Known Bugs
 * Link to Hello-World2 doesn't work
-* Text with image doesn't float left
 
 [Portfolio GH Page](https://kennethuva.github.io/Portfolio/)
 
