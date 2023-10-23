@@ -1,4 +1,4 @@
-# Project1
+# Portfolio
 
 By Ken Uva
 
@@ -15,7 +15,7 @@ A site about myself to show uses of CSS, HTML and GIT
 ## Setup and Installation
 1. Clone a copy to the desktop
 2. Go to To of Directory
-3. Open Project1.html
+3. Open Portfolio.html
 
 ## Known Bugs
 * Link to Hello-World2 doesn't work
